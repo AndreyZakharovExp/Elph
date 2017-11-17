@@ -1,4 +1,4 @@
 # Elph
 electrophysiology acquisition
-Elph was created to accept digital signal from LA2-USB of Rudnev-Shilyaev manufacturer.
-Elph is compatible with Windows XP and Windows 7.
+Программа Elph предназначена для работы с устройством сбора данных LA2-USB (производство ЗАО "Руднев-Шиляев").
+В данный момент программа совместима с Windows XP. Разрабатывается верся для работы в Windows 7.
