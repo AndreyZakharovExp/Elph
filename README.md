@@ -2,6 +2,11 @@
 electrophysiology acquisition
 Программа Elph предназначена для работы с устройством сбора данных LA2-USB (производство ЗАО "Руднев-Шиляев").
 В данный момент программа совместима с Windows XP. Разрабатывается верся для работы в Windows 7.
+При использовании программы, пожалуйста, используйте ссылку на статью:
+
+Захаров А.В. Elph: программа для управления записью и анализа электрофизиологических сигналов // Учен. зап. Казан. ун-та. Сер. Естеств. науки. – 2019. – Т. 161, кн. 2. – С. 245–254. – doi: 10.26907/2542-064X.2019.2.245-254.
+
+Zakharov A.V. Elph: An open-source program for acquisition control and analysis of electrophysiological signals. Uchenye Zapiski Kazanskogo Universiteta. Seriya Estestvennye Nauki, 2019, vol. 161, no. 2, pp. 245–254. doi: 10.26907/2542-064X.2019.2.245-254
 
 Разработчик:
 Захаров Андрей Викторович
